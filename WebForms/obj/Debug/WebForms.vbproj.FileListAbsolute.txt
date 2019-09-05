@@ -1,0 +1,15 @@
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\bin\WebForms.dll.config
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\bin\WebForms.dll
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\bin\WebForms.pdb
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\bin\WebForms.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\bin\BLL.dll
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\bin\BLL.pdb
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\bin\BLL.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.vbprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.Resources.resources
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.vbproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.vbproj.CopyComplete
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.dll
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WebForms\obj\Debug\WebForms.pdb

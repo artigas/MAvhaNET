@@ -1,0 +1,12 @@
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\bin\Debug\WSClient.exe
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\bin\Debug\WSClient.pdb
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\bin\Debug\WSClient.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.Resources.resources
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.vbproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.exe
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.pdb
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\bin\Debug\WSClient.exe.config
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.vbprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WSClient\obj\Debug\WSClient.CRUD.resources

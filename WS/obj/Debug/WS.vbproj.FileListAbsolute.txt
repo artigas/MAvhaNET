@@ -1,0 +1,15 @@
+C:\Users\Manuel\source\repos\MAvhaNET\WS\bin\WS.dll.config
+C:\Users\Manuel\source\repos\MAvhaNET\WS\bin\WS.dll
+C:\Users\Manuel\source\repos\MAvhaNET\WS\bin\WS.pdb
+C:\Users\Manuel\source\repos\MAvhaNET\WS\bin\WS.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WS\bin\BLL.dll
+C:\Users\Manuel\source\repos\MAvhaNET\WS\bin\BLL.pdb
+C:\Users\Manuel\source\repos\MAvhaNET\WS\bin\BLL.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.vbprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.Resources.resources
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.vbproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.vbproj.CopyComplete
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.dll
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.xml
+C:\Users\Manuel\source\repos\MAvhaNET\WS\obj\Debug\WS.pdb
